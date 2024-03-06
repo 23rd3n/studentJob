@@ -58,21 +58,12 @@
         - allows the script VirCam.py to run upon double clicking
         - NOTE : the path for Exec should be modified to state the path of VirCam.py
 
-# [QUECTEL Drivers for lowest and newest kernels](quectel_drivers)
+# [QUECTEL Driver installation for lowest and newest kernels](quectel_driver_installation)
 
 - [old_kernels](quectel_drivers/quectel_ubuntu_old_vers/)
     - Inside this folder there is a PDF explaining the installation steps and a zip file for drivers
 - [new_kernels](quectel_drivers/quectel_ubuntu_22.04/)
     - Inside this folder, there is a readme that explains the installation steps and a zip file for new drivers
-
-# [Free5GC .ova file and config files](free5gc_VM_files)
-
-- [configs](free5gc_VM_files/configs/) includes the config files that I've used for my setup
-- Also includes the .ova file for the importing the VM into any computer
-- There may be some important issues whiling importing the appliance such as
-network adapter configurations
-- If the UPF gives an error such as UPF is already in use, go to gtp5g folder and rebuild it 
-following the [free5gc](https://github.com/free5gc/free5gc/wiki/Installation)
 
 # [OAI PDSCH(gNB) and plotting of DL,UL channel(UE,gNB)](oai_codes)
 
