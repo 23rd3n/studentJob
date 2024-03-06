@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=VirCam
+Exec=/home/lkn/Desktop/serden/gitlab/oai_ml_serden/virtualCamera/VirCam.py
+Terminal=true
+Type=Application
